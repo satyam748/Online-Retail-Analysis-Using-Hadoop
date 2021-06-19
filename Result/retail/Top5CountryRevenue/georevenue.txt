@@ -1,0 +1,5 @@
+United Kingdom	8187806
+Netherlands	284662
+EIRE	263277
+Germany	221698
+France	197404

@@ -1,0 +1,14 @@
+-Do change USERNAME accordingly
+
+-For Creating Directories in HDFS:
+--hdfs dfs -mkdir -p /user/USERNAME/retail
+--hdfs dfs -mkdir /user/USERNAME/retail/rawsales
+--hdfs dfs -put /home/USERNAME/Online-Retail-Analysis/Online-retail-data/Online-Retail-Data.txt /user/USERNAME/retail/rawsales/
+--hdfs dfs -ls /user/USERNAME/retail/rawsales
+
+-For Getting Result to local storage
+--hdfs dfs -copyToLocal /user/USERNAME/retail /home/USERNAME/Online-Retail-Analysis/Result
+
+-Copy to HDFS from local
+--hdfs dfs -put /home/USERNAME/Online-Retail-Analysis/Result/retail/cleansales/CleanSales.txt /user/USERNAME/retail/cleansales/
+

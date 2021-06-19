@@ -1,0 +1,50 @@
+United Kingdom	51060	12/2010
+United Kingdom	20450	01/2011
+United Kingdom	35060	02/2011
+United Kingdom	25767	03/2011
+United Kingdom	23501	04/2011
+United Kingdom	102091	05/2011
+United Kingdom	39206	06/2011
+United Kingdom	125040	07/2011
+United Kingdom	352787	08/2011
+United Kingdom	127560	09/2011
+Netherlands	0	12/2010
+Netherlands	9648	01/2011
+Netherlands	18662	02/2011
+Netherlands	1078	03/2011
+Netherlands	6862	04/2011
+Netherlands	289	05/2011
+Netherlands	5794	06/2011
+Netherlands	23326	07/2011
+Netherlands	18644	08/2011
+Netherlands	4462	09/2011
+EIRE	0	12/2010
+EIRE	20450	01/2011
+EIRE	190	02/2011
+EIRE	165	03/2011
+EIRE	174	04/2011
+EIRE	283	05/2011
+EIRE	198	06/2011
+EIRE	274	07/2011
+EIRE	1245	08/2011
+EIRE	847	09/2011
+Germany	0	12/2010
+Germany	0	01/2011
+Germany	0	02/2011
+Germany	0	03/2011
+Germany	0	04/2011
+Germany	0	05/2011
+Germany	0	06/2011
+Germany	365	07/2011
+Germany	1284	08/2011
+Germany	659	09/2011
+France	0	12/2010
+France	0	01/2011
+France	0	02/2011
+France	0	03/2011
+France	0	04/2011
+France	0	05/2011
+France	178	06/2011
+France	285	07/2011
+France	1246	08/2011
+France	404	09/2011
